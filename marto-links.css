@@ -1,0 +1,268 @@
+A.readmore:link
+{
+	color:blue;
+	font-size:12px;
+	font-weight:bold;
+	font-style:italic;
+
+}
+A.readmore:visited
+{
+	color:blue;
+	font-size:12px;
+	font-weight:bold;
+	font-style:italic;
+
+}
+
+A:link
+{
+	color:black;
+    BACKGROUND-COLOR: transparent;
+    TEXT-DECORATION: none;
+    FONT-VARIANT: none;
+    text-align:left;
+}
+
+A:visited
+{
+	color:black;
+    BACKGROUND-COLOR: transparent;
+    TEXT-DECORATION: none;
+    FONT-VARIANT: none;
+    text-align:left;
+}
+
+A.socep:link
+{
+	color:#033276;
+    BACKGROUND-COLOR: transparent;
+    TEXT-DECORATION: none;
+    FONT-VARIANT: none;
+    text-align:left;
+    display:block;
+    padding-bottom:10px;
+    padding-top:10px;
+    width:150px;
+    border-bottom:1px dashed #033276;
+    font-weight:bold;
+}
+
+A.socep:visited
+{
+	color:black;
+    BACKGROUND-COLOR: transparent;
+    TEXT-DECORATION: none;
+    FONT-VARIANT: none;
+    text-align:left;
+}
+
+A.blue:link
+{
+	
+    BACKGROUND-COLOR: transparent;
+    color:blue;
+    TEXT-DECORATION: underline;
+    FONT-VARIANT: none;
+    text-align:left;
+    font-style:italic;
+}
+
+A.blue:visited
+{
+	
+    BACKGROUND-COLOR: transparent;
+    color:blue;
+    TEXT-DECORATION: underline;
+    FONT-VARIANT: none;
+    text-align:left;
+    font-style:italic;
+}
+
+A.blue2:link
+{
+	
+    BACKGROUND-COLOR: transparent;
+    color:blue;
+    TEXT-DECORATION: underline;
+    FONT-VARIANT: none;
+    text-align:left;
+    font-style:normal;
+}
+
+A.blue2:visited
+{
+	
+    BACKGROUND-COLOR: transparent;
+    color:blue;
+    TEXT-DECORATION: underline;
+    FONT-VARIANT: none;
+    text-align:left;
+    font-style:normal;
+}
+
+A.blue3:link
+{
+	
+    BACKGROUND-COLOR: transparent;
+    color:#033276;
+    TEXT-DECORATION: normal;
+    FONT-VARIANT: none;
+    text-align:left;
+    font-style:normal;
+}
+
+A.blue3:visited
+{
+	
+    BACKGROUND-COLOR: transparent;
+    color:#033276;
+    TEXT-DECORATION: normal;
+    FONT-VARIANT: none;
+    text-align:left;
+    font-style:normal;
+}
+
+A.white:link
+{
+	
+    BACKGROUND-COLOR: transparent;
+    color:white;
+    TEXT-DECORATION: none;
+    FONT-VARIANT: none;
+    text-align:left;
+}
+
+A.white:visited
+{
+	
+    BACKGROUND-COLOR: transparent;
+    color:white;
+    TEXT-DECORATION: none;
+    FONT-VARIANT: none;
+    text-align:left;
+}
+
+
+A.pulldown:link
+{
+	font-family:arial;
+	font-size:14px;
+	border-bottom:1px solid lightgrey;
+	padding:5px;
+	display:block;
+	color:black;
+    BACKGROUND-COLOR: transparent;
+    TEXT-DECORATION: none;
+    FONT-VARIANT: none;
+    text-align:left;
+}
+
+A.pulldown:visited
+{
+	font-family:arial;
+	font-size:14px;
+	border-bottom:1px solid lightgrey;
+	padding:5px;
+	display:block;
+	color:black;
+    BACKGROUND-COLOR: transparent;
+    TEXT-DECORATION: none;
+    FONT-VARIANT: none;
+    text-align:left;
+}
+
+A.pulldown:hover
+{
+	font-family:arial;
+	font-size:14px;
+	border-bottom:1px solid lightgrey;
+	display:block;
+	padding:5px;
+	color:white;
+    BACKGROUND-COLOR: blue;
+    TEXT-DECORATION: none;
+    FONT-VARIANT: none;
+    text-align:left;
+}
+
+A.pulldown2:link
+{
+	font-family:arial;
+	font-size:11px;
+	border-bottom:1px solid lightgrey;
+	padding:5px;
+	display:block;
+	color:black;
+    BACKGROUND-COLOR: transparent;
+    TEXT-DECORATION: none;
+    FONT-VARIANT: none;
+    text-align:left;
+}
+
+A.pulldown2:visited
+{
+	font-family:arial;
+	font-size:11px;
+	border-bottom:1px solid lightgrey;
+	padding:5px;
+	display:block;
+	color:black;
+    BACKGROUND-COLOR: transparent;
+    TEXT-DECORATION: none;
+    FONT-VARIANT: none;
+    text-align:left;
+}
+
+A.pulldown2:hover
+{
+	font-family:arial;
+	font-size:11px;
+	border-bottom:1px solid lightgrey;
+	display:block;
+	padding:5px;
+	color:white;
+    BACKGROUND-COLOR: blue;
+    TEXT-DECORATION: none;
+    FONT-VARIANT: none;
+    text-align:left;
+}
+
+A.bottom:link {
+	color:#033276;
+	font-size:11px;
+	display:block;
+	font-family:arial;
+	padding-bottom:8px;
+	padding-top:8px;
+	border-bottom:1px dashed lightgrey;
+	width:140px;
+
+}
+
+A.bottom:visited {
+	font-size:11px;
+	color:#033276;
+	display:block;
+	font-size:1px;	
+	font-family:arial;
+	padding-bottom:8px;
+	padding-top:8px;
+	border-bottom:1px dashed lightgrey;
+	width:150px;
+
+}
+
+A.tiny:link {
+	color:white;
+	font-family:arial;
+	font-size:12px;
+	font-style:none;
+}
+
+A.tiny:visited {
+	color:white;
+	font-family:arial;
+	font-size:12px;
+	font-style:none;
+}

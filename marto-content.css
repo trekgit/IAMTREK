@@ -1,0 +1,1076 @@
+#content
+{
+	margin: 0 0 0 0;
+	width: 100%;
+	background: transparent;
+	text-align:center;
+	left:0px;
+	top:135px;
+	position:absolute;
+	
+}
+
+#content_container
+{
+	margin: 0 0 0 0;
+	width: 920px;
+	text-align:left;
+	position:relative;
+	height:400px;
+	
+}
+
+
+	
+#anniv_banner
+{
+	position:absolute; 
+	left:0px; 
+	top:5px;
+}
+
+/* MOVING BANNER */
+
+#myImage
+{
+	position:absolute; 
+	left:360px; 
+	top:5px;
+	width:560px;
+	height:182px;
+	opacity:1; filter:alpha(opacity=100);
+}
+
+#left_button {
+
+	position:absolute;
+	left:360px;
+	top:62px;
+	opacity:0.5; filter:alpha(opacity=50);	
+	z-index:100;
+}
+
+#right_button {
+
+	position:absolute;
+	left:887px;
+	top:62px;
+	opacity:0.5; filter:alpha(opacity=50);	
+	z-index:100;
+}
+
+/* FRONT BUTTONS */		
+#board_passers
+{
+	position:absolute; 
+	left:360px; 
+	top:210px;
+}
+
+#calendar
+{
+	position:absolute; 
+	left:550px; 
+	top:210px;
+}
+
+#alumni
+{
+	position:absolute; 
+	left:739px; 
+	top:210px;
+}
+
+
+
+
+/* FAQS */
+
+#faqs
+{
+	position:absolute; 
+	left:642px; 
+	top:290px;
+	width:280px;
+	height:61px;
+	background:yellow;
+	border-bottom:2px solid blue;
+	
+}
+
+#faqs_search
+{
+	position:absolute; 
+	left:110px; 
+	top:15px;
+	text-align:left;
+	font-size:14px;
+	font-family:arial;
+	
+}
+
+#faqs_question_head {
+
+	font-size:13px;
+	font-family:arial;
+	font-weight:bold;
+	color:#033276;
+	
+}
+
+#faqs_question {
+
+	font-size:12px;
+	font-family:arial;
+	color:black;
+	text-align:justify;
+	padding:5px;
+	
+}
+	
+
+#faqs_text
+{
+	position:absolute; 
+	left:10px; 
+	top:1px;
+	text-align:right;
+	font-size:38px;
+	color:#033276;
+	font-family:times new roman;
+	
+}
+
+#faqs_text2
+{
+	position:absolute; 
+	left:10px; 
+	top:40px;
+	text-align:left;
+	font-size:12px;
+	color:black;
+	font-style:italic;
+	font-family:arial;
+	
+}
+
+#faqs_content
+{
+	position:absolute; 
+	width:280px;
+	left:642px; 
+	top:353px;
+	text-align:left;
+	font-size:14px;
+	color:black;
+	font-family:arial;
+	height:420px;
+	overflow:auto;
+	
+}
+
+#faqs_footer
+{
+	font-size:13px;
+	font-family:arial;
+	text-align:right;
+	font-style:italic;
+	color:#033276;
+	
+}	
+
+/* NEWS */
+
+#news_bar
+{
+	position:absolute;
+	left:0px;
+	top:300px;
+	background: #033276;
+	text-align:left;
+	color:white;
+	width:351px;
+	
+}
+
+#news_box
+{
+	position:absolute;
+	left:0px;
+	top:330px;
+	background: #dedcdd;
+	text-align:center;
+	color:white;
+	width:351px;
+	height:580px;
+	
+}
+
+
+
+#news_content {
+
+	height:120px;
+	width:130px;
+	background:white;
+	color:white;
+	float:left;
+	
+}
+
+#news1 {
+	
+	position:absolute;
+	top:20px;
+	height:120px;
+	left:160px;
+	background:white;
+	width:185px;
+	text-align:left;
+	color:black;
+	font-family:arial;
+	font-size:13px;
+}
+
+#news2 {
+	
+	position:absolute;
+	top:160px;
+	height:120px;
+	left:160px;
+	background:white;
+	width:185px;
+	text-align:left;
+	color:black;
+	font-family:arial;
+	font-size:13px;
+}
+
+#news3 
+{
+	
+	position:absolute;
+	top:300px;
+	height:120px;
+	left:160px;
+	background:white;
+	width:185px;
+	text-align:left;
+	color:black;
+	font-family:arial;
+	font-size:13px;
+}
+
+#news4
+{
+	
+	position:absolute;
+	top:440px;
+	height:120px;
+	left:160px;
+	background:white;
+	width:185px;
+	text-align:left;
+	color:black;
+	font-family:arial;
+	font-size:13px;
+}
+
+#news_pic1 {
+
+	width:150px;
+	height:120px;
+	z-index:300;
+	position:absolute; top:20px; left:5px;
+}
+
+#news_pic2 {
+
+	width:150px;
+	height:120px;
+	z-index:300;
+	position:absolute; top:160px; left:5px;
+}
+
+#news_pic3 {
+
+	width:150px;
+	height:120px;
+	position:absolute; top:300px; left:5px;
+}
+
+#news_pic4 {
+
+	width:150px;
+	height:120px;
+	position:absolute; top:440px; left:5px;
+}
+
+/* ACADEMICS */
+
+#academics
+{
+	position:absolute; 
+	left:360px; 
+	top:290px;
+	
+}
+	
+#academics_text
+{
+	position:absolute; 
+	left:450px; 
+	top:290px;
+	text-align:right;
+	font-size:38px;
+	color:yellow;
+	font-family:times new roman;
+	
+}
+
+
+#graduate_school 
+{
+	position:absolute;
+	left:360px;
+	border-bottom:1px solid lightblue;
+	background:#cee1ff;
+	width:270px;
+	height:60px;
+	top:351px;
+}
+
+#graduate_school_logo 
+{
+	position:absolute;
+	left:40px;
+	top:8px;
+}
+
+#graduate_school_text
+{
+	font-family:arial;
+	font-size:12px;
+	color:blue;
+	position:absolute;
+	left:100px;
+	top:23px;
+}
+
+#college_of_education
+{
+	position:absolute;
+	left:360px;
+	border-bottom:1px solid lightblue;
+	border-right:1px solid lightblue;
+	background:#cee1ff;
+	width:135px;
+	height:58px;
+	top:412px;
+}
+
+#college_of_education_logo
+{
+	position:absolute;
+	left:10px;
+	top:8px;
+}
+
+#college_of_education_text
+{
+	font-family:arial;
+	font-size:11px;
+	color:blue;
+	position:absolute;
+	left:65px;
+	top:16px;
+}
+
+#college_of_liberal_arts
+{
+	position:absolute;
+	left:360px;
+	border-bottom:1px solid lightblue;
+	border-right:1px solid lightblue;
+	background:#cee1ff;
+	width:135px;
+	height:58px;
+	top:471px;
+}
+
+#college_of_liberal_arts_logo
+{
+	position:absolute;
+	left:10px;
+	top:8px;
+}
+
+#college_of_liberal_arts_text
+{
+	font-family:arial;
+	font-size:11px;
+	color:blue;
+	position:absolute;
+	left:65px;
+	top:16px;
+}
+
+#college_of_criminology
+{
+	position:absolute;
+	left:360px;
+	border-bottom:1px solid lightblue;
+	border-right:1px solid lightblue;
+	background:#cee1ff;
+	width:135px;
+	height:58px;
+	top:530px;
+}
+
+#college_of_criminology_logo
+{
+	position:absolute;
+	left:10px;
+	top:8px;
+}
+
+#college_of_criminology_text
+{
+	font-family:arial;
+	font-size:11px;
+	color:blue;
+	position:absolute;
+	left:65px;
+	top:16px;
+}
+
+#college_of_nursing
+{
+	position:absolute;
+	left:360px;
+	border-bottom:1px solid lightblue;
+	border-right:1px solid lightblue;
+	background:#cee1ff;
+	width:135px;
+	height:58px;
+	top:589px;
+}
+
+#college_of_nursing_logo
+{
+	position:absolute;
+	left:10px;
+	top:8px;
+}
+
+#college_of_nursing_text
+{
+	font-family:arial;
+	font-size:11px;
+	color:blue;
+	position:absolute;
+	left:65px;
+	top:16px;
+}
+
+#cbea
+{
+	position:absolute;
+	left:496px;
+	border-bottom:1px solid lightblue;
+	border-right:1px solid lightblue;
+	background:#cee1ff;
+	width:133px;
+	height:58px;
+	top:412px;
+}
+
+#cbea_logo
+{
+	position:absolute;
+	left:8px;
+	top:9px;
+}
+
+#cbea_text
+{
+	font-family:arial;
+	font-size:11px;
+	color:blue;
+	position:absolute;
+	left:63px;
+	top:2px;
+}
+
+#college_of_engineering
+{
+	position:absolute;
+	left:496px;
+	border-bottom:1px solid lightblue;
+	border-right:1px solid lightblue;
+	background:#cee1ff;
+	width:133px;
+	height:58px;
+	top:471px;
+}
+
+#college_of_engineering_logo
+{
+	position:absolute;
+	left:8px;
+	top:9px;
+}
+
+#college_of_engineering_text
+{
+	font-family:arial;
+	font-size:11px;
+	color:blue;
+	position:absolute;
+	left:63px;
+	top:16px;
+}
+
+#college_of_computer_science
+{
+	position:absolute;
+	left:496px;
+	border-bottom:1px solid lightblue;
+	border-right:1px solid lightblue;
+	background:#cee1ff;
+	width:133px;
+	height:58px;
+	top:530px;
+}
+
+#college_of_computer_science_logo
+{
+	position:absolute;
+	left:8px;
+	top:9px;
+}
+
+#college_of_computer_science_text
+{
+	font-family:arial;
+	font-size:11px;
+	color:blue;
+	position:absolute;
+	left:63px;
+	top:10px;
+}
+
+#college_of_hospitality_management
+{
+	position:absolute;
+	left:496px;
+	border-bottom:1px solid lightblue;
+	border-right:1px solid lightblue;
+	background:#cee1ff;
+	width:133px;
+	height:58px;
+	top:589px;
+}
+
+#college_of_hospitality_management_logo
+{
+	position:absolute;
+	left:8px;
+	top:9px;
+}
+
+#college_of_hospitality_management_text
+{
+	font-family:arial;
+	font-size:11px;
+	color:blue;
+	position:absolute;
+	left:63px;
+	top:10px;
+}
+
+#research
+{
+	
+	
+	position:absolute; 
+	left:640px; 
+	top:802px;
+}
+
+#socep
+{
+	position:absolute; 
+	left:640px; 
+	top:870px;
+	
+}
+
+#highschool
+{
+	position:absolute; 
+	left:360px; 
+	top:792px;
+	
+}
+
+#silvercrest
+{
+	position:absolute; 
+	left:360px; 
+	top:660px;
+	
+}
+
+
+
+/* LINKS */
+
+#link_content
+{
+	position:relative; 
+	left:370px; 
+	top:5px;
+	width:540px;
+	font-family:arial;
+	font-size:12px;
+	text-align:left;
+	overflow:hidden;
+	ms-overflow:hidden;
+	overflow-x: hidden;
+	ms-overflow-x: hidden;
+
+}
+
+#link_title
+{
+	position:relative; 
+	color:#033276;
+	font-size:28px;
+	font-family:times new roman;
+	background-repeat:no-repeat;
+	background-image:url(arrowbackground.jpg);
+	background-repeat:no-repeat;
+	height:50px;
+	padding-top:10px;
+}
+
+
+/* BOTTOM MENU */
+
+#bottom_menu
+{
+	position:absolute;
+	left:0px;
+	top:950px;
+	background: transparent;
+	text-align:left;
+	color:lightgrey;
+	width:351px;
+	font-size:12px;
+	font-family:arial;
+	
+}
+
+#bottom_menu2
+{
+	position:absolute;
+	left:0px;
+	top:750px;
+	background: transparent;
+	text-align:left;
+	color:lightgrey;
+	width:330px;
+	font-size:12px;
+	font-family:arial;
+	
+}
+
+/* ACADEMICS */
+
+#academic_title 
+{
+
+	position:absolute;
+	top:5px;
+	left:0px;
+
+}
+
+#academic_objectives
+{
+
+	position:absolute;
+	top:115px;
+	left:0px;
+	width:910px;
+	height:415px;
+	overflow:auto;
+	padding:5px;
+	font-family:arial;
+	font-size:14px;
+	overflow:hidden;
+	ms-overflow:hidden;
+	overflow-x: hidden;
+	ms-overflow-x: hidden;
+	overflow-y:auto;
+
+
+
+}
+
+#academic_dean
+{
+	position:absolute;
+	top:0px;
+	left:0px;
+	
+
+}
+
+#academic_message_dean
+{
+	position:absolute;
+	top:0px;
+	left:235px;
+	border-bottom:2px solid #033276;
+	text-align:right;
+	width:685px;
+	z-index:1;
+	
+	height:70px;
+
+}
+
+#academic_message_dean2 
+{
+	position:absolute;
+	top:20px;
+	left:370px;
+	color:#033276;
+	font-size:32px;
+	font-family:times new roman;
+	background-image:url(bg_arrow_sa_msg.png);
+	background-repeat:no-repeat;
+	padding:5px;
+
+}
+
+#academic_message
+{
+
+	position:absolute;
+	top:450px;
+	left:0px;
+	width:100%;
+	height:266px;
+	background:#d9dfeb;
+
+}
+
+#academic_message_text
+{
+
+	position:absolute;
+	top:70px;
+	left:270px;
+	width:640px;
+	height:185px;
+	color:#aaa8a9;
+	overflow:auto;
+	overflow-x: hidden;
+	ms-overflow-x: hidden;
+	background:transparent;
+	padding:5px;
+	font-family:arial;
+	font-size:12px;
+
+}
+
+
+#academic_faculty
+{
+	position:absolute;
+	/* top:750px; */
+	top:600px;
+	/*left:320px;*/
+	left:100px;
+	
+}
+
+#academic_faculty_text
+{
+	position:absolute;
+	/* top:810px; */
+	top:660px;
+	/*left:320px; */
+	left:100px;
+	font-family:verdana;
+	font-size:10px;
+	color:black;
+	
+}
+
+#academic_prospectus
+{
+	position:absolute;
+	/* top:750px; */
+	top:600px;
+	left:735px;
+	
+}
+
+#academic_prospectus_combo
+{
+	position:absolute;
+	/* top:765px; */
+	top:615px;
+	left:785px;
+	width:130px;
+	
+}
+
+#academic_prospectus_text
+{
+	position:absolute;
+	/* top:798px; */
+	top:648px;
+	left:786px;
+	font-family:arial;
+	color:white;
+	font-size:9px;
+}
+
+#academic_prospectus_text2
+{
+	position:absolute;
+	/* top:830px; */
+	top:680px;
+	left:750px;
+	font-family:arial;
+	color:#aaa8a9;
+	font-style:italic;
+	font-size:9px;
+	width:150px;
+}
+
+#academic_adobe
+{
+	position:absolute;
+	/* top:830px; */
+	top:680px;
+	left:890px;
+}
+
+#academic_studentorg
+{
+	position:absolute;
+	/* top:885px; */
+	top:735px;
+	left:735px;
+	
+}
+
+#academic_studentorg_text
+{
+	position:absolute;
+	/* top:932px; */
+	top:782px;
+	left:788px;
+	font-family:arial;
+	color:white;
+	font-size:9px;
+}
+
+#academic_studentorg_text2
+{
+	position:absolute;
+	/* top:970px; */
+	top:820px;
+	left:750px;
+	font-family:arial;
+	color:#aaa8a9;
+	font-style:italic;
+	font-size:9px;
+	width:150px;
+}
+
+#academic_studentorg_combo
+{
+	position:absolute;
+	/* top:897px; */
+	top:747px;
+	left:785px;
+	width:130px;
+	
+}
+
+#academic_facebook
+{
+	position:absolute;
+	/*top:970px;*/
+	top:820px;
+	left:890px;
+}
+
+#academic_facilities
+{
+	position:absolute;
+	/*top:1010px;*/
+	top:860px;
+	left:746px;
+	
+}
+
+#academic_facilities_text
+{
+	position:absolute;
+	/*top:1035px;*/
+	top:885px;
+	left:830px;
+	font-family:arial;
+	color:white;
+	font-size:9px;
+}
+
+#academic_facilities_text2
+{
+	position:absolute;
+	/*top:1070px;*/
+	top:920px;
+	left:800px;
+	font-style:italic;
+	font-family:arial;
+	color:#aaa8a9;;
+	font-size:9px;
+}
+
+#preliminary_requirements
+
+{
+	padding:10px;
+	background:#cee1ff;
+	font-size:12px;
+	background:url(career_bg.jpg);
+	background-repeat:no-repeat;
+
+}
+
+#contact_us
+
+{
+	padding:10px;
+	background:#cee1ff;
+	font-size:14px;
+	color:white;
+	background:url(contactus_bg.jpg);
+	background-repeat:no-repeat;
+	height:174px;
+
+}
+
+#reminder
+{
+
+	padding:20px;
+	background:#cee1ff;
+
+}
+
+#stitle
+{
+	color:#033276; 
+	font-size:14px;
+	font-weight:bold;
+	font-family:arial;
+	padding:0px;
+}
+
+#sign_guestbook2
+{
+	color:#033276; 
+	font-size:12px;
+	font-weight:bold;
+	font-family:arial;
+	padding:10px;
+}
+
+#sign_guestbook
+{
+	color:#033276; 
+	font-size:14px;
+	font-weight:bold;
+	font-family:arial;
+	padding:10px;
+	background:#cee1ff;
+	border:1px solid lightgray;
+}
+
+#guestbook_body
+{
+	color:#033276; 
+	font-size:14px;
+	font-weight:bold;
+	font-family:arial;
+	padding:0px;
+	background:#cee1ff;
+	border:1px solid lightgray;
+	width:500px;
+}
+
+#guestbook_head 
+{
+	top:0px;
+	left:0px;
+	background:#FFFF01;
+	color:black;
+	width:100%;
+	padding:5px;
+	width:490px;
+
+}
+
+#guestbook_table
+{
+	font-size:12px;
+	padding-left:10px;
+
+}
+
+#guestbook_cell 
+{
+	padding-left:20px;
+	padding-bottom:20px;
+	font-weight:bold;
+	color:blue;
+}
+
+#photo_menu
+{
+	position:absolute; 
+	left:0px; 
+	top:0px;
+	width:350px;
+	height:700px;
+	font-family:arial;
+	font-size:12px;
+	text-align:left;
+	background-color:lightcyan;
+	padding:10px;
+}
+
+#photo_frame
+{
+	position:absolute; 
+	left:350px; 
+	top:0px;
+	height:700px;
+	width:300px;
+	font-family:arial;
+	font-size:12px;
+	text-align:left;
+	padding:10px;
+	background:white;
+}
+
+

@@ -1,0 +1,92 @@
+p
+{
+text-indent:50px;
+text-align:justify;
+} 
+
+li{
+   padding:5px;
+
+}
+
+body {
+	margin: 0 0 0 0;
+}
+
+.fb_edge_widget_with_comment span.fb_edge_comment_widget iframe.fb_ltr {
+display: none !important;}
+
+#head
+{
+	margin: 0 0 0 0;
+	width: 100%;
+	height:135px;
+	background: #cee1ff;
+	text-align:center;
+	left:0px;
+	top:0px;
+	position:absolute;
+	overflow:hidden;
+}
+
+/* BANNER */
+
+#banner
+{
+	margin: 0 0 0 0;
+	width: 920px;
+	height:105px;
+	background: #033276;
+	text-align:left;
+	position:relative;
+	
+}
+
+#title
+{
+	position:absolute;
+	top:10px;
+	left:110px;
+	font-family:times new roman;
+	font-size:45px;
+	color:white;
+}
+
+#address
+{
+	position:absolute;
+	top:70px;
+	left:110px;
+	font-family:arial;
+	font-size:12px;
+	font-weight:bold;
+	color:#dedcdd;
+}
+
+#head_divider
+{
+	position:absolute;
+	top:10px;
+	left:580px;
+	font-family:times new roman;
+	font-size:15px;
+	color:white;
+
+}
+
+#head_search
+{
+	position:absolute;
+	top:40px;
+	left:625px;
+	font-family:arial;
+	font-size:15px;
+	color:white;
+	
+}
+
+
+
+
+
+
